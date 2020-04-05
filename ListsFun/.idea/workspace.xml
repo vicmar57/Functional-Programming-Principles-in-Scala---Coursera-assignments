@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be88da3a-c726-4b48-b8fa-c25a6b4d1e73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZWwo5Nb1p1Qoj9dAxMEeiLLLCk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.Main" />
+      <module name="example_807" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.Lists" />
+      <module name="example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="example" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.example" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Scala REPL.Scala REPL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="Application.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="example_807 [file:/C:/Users/vicma/IdeaProjects/example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="example_807-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429354276000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="102714806" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be88da3a-c726-4b48-b8fa-c25a6b4d1e73" name="Default Changelist" comment="" />
+      <created>1584968329639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584968329639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-948" y="676" key="#Project_Structure" timestamp="1584968641012">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-948" y="676" key="#Project_Structure/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584968641012" />
+    <state x="-1080" y="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584970267826">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-1080" y="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970267826" />
+    <state x="-723" y="932" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584970124524">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-723" y="932" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970124524" />
+    <state x="-901" y="705" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584970336713">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-901" y="705" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970336713" />
+    <state x="-811" y="802" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584970265780">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-811" y="802" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970265780" />
+    <state x="-817" y="707" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584971108109">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-817" y="707" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584971108109" />
+    <state x="-692" y="907" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584970139016">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-692" y="907" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970139016" />
+    <state x="-760" y="773" key="FileChooserDialogImpl" timestamp="1584970911746">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-760" y="773" key="FileChooserDialogImpl/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970911746" />
+    <state width="1034" height="372" key="GridCell.Tab.0.bottom" timestamp="1585131861136">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585131861136" />
+    <state width="1034" height="372" key="GridCell.Tab.0.center" timestamp="1585131861134">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585131861134" />
+    <state width="1034" height="372" key="GridCell.Tab.0.left" timestamp="1585131861134">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585131861134" />
+    <state width="1034" height="372" key="GridCell.Tab.0.right" timestamp="1585131861135">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state width="1034" height="372" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585131861135" />
+    <state x="-744" y="884" key="NewModule_or_Project.wizard" timestamp="1584970976934">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-744" y="884" key="NewModule_or_Project.wizard/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1584970976934" />
+    <state x="-844" y="842" key="com.intellij.ide.util.TipDialog" timestamp="1585126888352">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-844" y="842" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585126888352" />
+    <state x="-1080" y="742" key="new project wizard" timestamp="1585131858477">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-1080" y="742" key="new project wizard/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585131858477" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vicma\eclipse-workspace\objsets\src\test\scala\objsets\singleTest.scala:19:23: not found: value size[0m
+[0m[[0m[31merror[0m] [0m[0m      assertEquals(1, size(set5.filter(tw => tw.user == "a")))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
